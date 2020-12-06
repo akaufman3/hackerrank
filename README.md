@@ -15,4 +15,4 @@
 ## Arrays
 |   | Problem         | Solution | Difficulty | Points | Note |
 |-- |:---------------:|:--------:|:----------:|:------:|:----:|
-|  |[Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem)| [JavaScript]() | Easy | 10 | Warm-up |
+|  |[Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem)| [PHP](https://github.com/akaufman3/hackerrank/blob/main/interview-preparation-kit/sales-by-match.php) | Easy | 10 | Warm-up, O(N^2) quadratic time -> finding pairs in array |
